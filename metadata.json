@@ -1,0 +1,6 @@
+{
+  "name": "Online Complaint Registration",
+  "description": "A comprehensive full-stack municipal complaint registration, management, and real-time tracking portal with a complete admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
